@@ -35,3 +35,5 @@ project:
     - file: python备用知识.md
 site:
   template: book-theme
+  options:
+    favicon: favicon.ico
