@@ -7,30 +7,30 @@ project:
     - file: main.md
     - title: python基础
       children:
-        - file: .\python基础\python基础00准备.ipynb
-        - file: .\python基础\python基础01算术.ipynb
-        - file: .\python基础\python基础02赋值.ipynb
-        - file: .\python基础\python基础03序列.ipynb
-        - file: .\python基础\python基础04字符串.ipynb
-        - file: .\python基础\python基础05列表.ipynb
-        - file: .\python基础\python基础06元组.ipynb
-        - file: .\python基础\python基础07字典.ipynb
-        - file: .\python基础\python基础08集合.ipynb
-        - file: .\python基础\python基础09函数.ipynb
-        - file: .\python基础\python基础10程序结构.ipynb
-        - file: .\python基础\python基础11类.ipynb
-        - file: .\python基础\python基础12pypi服务.ipynb
+        - file: ./python基础/python基础00准备.ipynb
+        - file: ./python基础/python基础01算术.ipynb
+        - file: ./python基础/python基础02赋值.ipynb
+        - file: ./python基础/python基础03序列.ipynb
+        - file: ./python基础/python基础04字符串.ipynb
+        - file: ./python基础/python基础05列表.ipynb
+        - file: ./python基础/python基础06元组.ipynb
+        - file: ./python基础/python基础07字典.ipynb
+        - file: ./python基础/python基础08集合.ipynb
+        - file: ./python基础/python基础09函数.ipynb
+        - file: ./python基础/python基础10程序结构.ipynb
+        - file: ./python基础/python基础11类.ipynb
+        - file: ./python基础/python基础12pypi服务.ipynb
     - title: python进阶
       children:
-        - file: .\python进阶\python进阶01可迭代对象.ipynb
-        - file: .\python进阶\python进阶02比较大小.ipynb
+        - file: ./python进阶/python进阶01可迭代对象.ipynb
+        - file: ./python进阶/python进阶02比较大小.ipynb
 
     - title: python数据处理
       children:
-        - file: .\python数据处理\excel和python交互.ipynb
-        - file: .\python数据处理\numpy基础.ipynb
-        - file: .\python数据处理\pandas基础.ipynb
-        - file: .\python数据处理\matplotlib基础.ipynb
+        - file: ./python数据处理/excel和python交互.ipynb
+        - file: ./python数据处理/numpy基础.ipynb
+        - file: ./python数据处理/pandas基础.ipynb
+        - file: ./python数据处理/matplotlib基础.ipynb
     - file: python重要知识参考.ipynb
     - file: python备用知识.md
 site:
